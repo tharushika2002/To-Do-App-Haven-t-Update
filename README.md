@@ -12,6 +12,7 @@ To-Do-App/
 │   └── checked.png    # Icon for checked tasks
 └── README.md          # Project documentation
 
+![alt text](image.png)
 
 Features
 Add Tasks: Quickly add tasks using the input box and "Add" button.
