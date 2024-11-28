@@ -2,10 +2,12 @@
 
 ### **A simple, elegant To-Do List web application that helps users manage their daily tasks effectively. Built with HTML, CSS, and JavaScript, it features task addition, deletion, and local storage support to persist tasks across browser sessions.**
 
+![alt text](app-interface.png)
+
 ---
 
 ## To-Do-App
-![alt text](image.png)
+![alt text](readmeimage.png)
 
 ## Features
 
